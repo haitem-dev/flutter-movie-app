@@ -78,14 +78,23 @@ Copy
 Edit
 lib/
 ├── models/          # Movie and Config models
+
 ├── services/        # HTTP & MovieService
+
 ├── pages/              # pages like main_page.dart or splash_screen  
+
 ├── main.dart        # Entry point
+
 ├── widgets/         #some widgets of the app
+
 ├── controllers/     #the functions that fetch the data from the api 
+
 └── ... 
+
 assets/
+
 └── config/          # API configuration JSON
+
 
 📦 TODO / Improvements
 
@@ -98,7 +107,6 @@ Trailer preview with YouTube player
 Dark mode toggle
 
 🧑‍💻 Author
-Your Name
 GitHub: @haitem-dev
 
 
